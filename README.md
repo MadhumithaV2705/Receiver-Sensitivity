@@ -31,6 +31,8 @@ Receiver specifications:
 
 Using the formulas above, calculate the receiver sensitivity.
 
+<img width="1123" height="1423" alt="WhatsApp Image 2026-05-24 at 11 01 30 AM" src="https://github.com/user-attachments/assets/4649eb37-b330-44cd-9f3c-7bc783ec05a2" />
+
 ---
 
 ## Layout
