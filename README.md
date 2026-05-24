@@ -57,7 +57,10 @@ Steps:
 1. Adjust output power to **0 dBm**.  
 2. Set attenuator to **20 dB**.  
 3. Run the simulation.  
-4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
+4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e6601e02-fab3-494c-8410-c7279b2e4c87" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e8503d3-1e17-4e3c-b817-421949a4142a" />
 
 ---
 
@@ -71,3 +74,5 @@ Your report should include:
 - Discussion of differences between analytical and simulation results.  
 
 ---
+## Result
+Thus, the Experiment was successfully completed and the output is verified.
